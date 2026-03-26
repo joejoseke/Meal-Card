@@ -1,0 +1,5 @@
+{
+  "name": "Quiver Staff Portal",
+  "description": "Internal management system for Quiver Lounge & Grill staff to manage points, payroll, and daily operations.",
+  "requestFramePermissions": []
+}
